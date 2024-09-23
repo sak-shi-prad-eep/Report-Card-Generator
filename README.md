@@ -4,17 +4,9 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-  - [User Roles](#user-roles)
-  - [Functionality](#functionality)
 - [Technical Details](#technical-details)
-  - [Dependencies](#dependencies)
-  - [Database Structure](#database-structure)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
-  - [Login](#login)
-  - [Admin Functions](#admin-functions)
-  - [Teacher Functions](#teacher-functions)
-  - [Student Functions](#student-functions)
 - [Security Considerations](#security-considerations)
 - [Future Enhancements](#future-enhancements)
 
